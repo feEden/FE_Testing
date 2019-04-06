@@ -1,0 +1,14 @@
+{
+    "name": "e2e_test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./tests/index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "selenium-webdriver": "^4.0.0-alpha.1"
+    }
+}
